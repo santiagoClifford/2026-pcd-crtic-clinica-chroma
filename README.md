@@ -11,7 +11,6 @@
 - <aaron.montoya@mail.udp.cl>
 - <https://github.com/disenoUDP>
 - <https://instagram.com/lid.udp>
--
 
 ### pergaminos
 
@@ -30,7 +29,6 @@
 - persona directora, laboratorio de interacción digital
   - investigación en pregrado
   - talleres y cursos de interacción digital
-  -
 
 ### en usach, pergaminos en progreso
 
@@ -52,8 +50,8 @@
 ## en publicaciones
 
 - REPRODUCIBILITY IN THE CONSTRUCTION OF TRADITIONAL WOODEN AND 3D-PRINTED PLASTIC SOUNDBOARDS FOR
-STRING INSTRUMENTS, por Sebastián Labraña, Víctor Correa, Aarón Montoya, Carolina Espinoza, disponible en <https://dael.euracoustics.org/confs/fa2025/data/articles/000744.pdf>.
-- Guitarra impresa en 3D: entre luthería tradicional y fabricación digital, por Carolina Espinoza, Claudio Adasme, Aarón Montoya, José Baeza<https://www.anppom.com.br/revista/index.php/opus/article/view/1458>
+STRING INSTRUMENTS, por Sebastián Labraña, Víctor Correa, Aarón Montoya, Carolina Espinoza, disponible en <https://dael.euracoustics.org/confs/fa2025/data/articles/000744.pdf>
+- Guitarra impresa en 3D: entre luthería tradicional y fabricación digital, por Carolina Espinoza, Claudio Adasme, Aarón Montoya, José Baeza <https://www.anppom.com.br/revista/index.php/opus/article/view/1458>
 - MÁQUINAS SONORAS, libro en progreso con Matías Serrano, borrador en vivo disponible en <https://disenoudp.github.io/apuntes-maquinas/>
 - PENSAMIENTO COMPUTACIONAl, libro en progreso de dibujo en 2D con p5.js, borrador en vivo disponible en <https://disenoudp.github.io/apuntes-pensamiento-computacional/>
 
@@ -61,12 +59,12 @@ STRING INSTRUMENTS, por Sebastián Labraña, Víctor Correa, Aarón Montoya, Car
 
 - participante del primer processing community day, estados unidos, 2017
 - beca de Processing Foundation, traducción del libro introducción a p5.js, escrito por Lauren Lee McCarthy, Casey Reas y Ben Fry, disponible en línea impreso y en PDF en <https://github.com/processing/p5.js-getting-started-es>
-- beca de Processing Foundation, trabajo en la biblioteca p5.serialport, creada por Shawn Van Every.
-- beca de Processing Foundation, trabajo en la biblioteca p5.sound.js, creada por Jason Sigal.
+- beca de Processing Foundation, trabajo en la biblioteca p5.serialport, creada por Shawn Van Every
+- beca de Processing Foundation, trabajo en la biblioteca p5.sound.js, creada por Jason Sigal
 
 ## info sobre diseño udp
 
-diseño universidad diego portales
+diseño universidad diego portales.
 
 históricamente teníamos 2 menciones: industrial y gráfico.
 
@@ -75,9 +73,9 @@ esta década abrió la mención de textil e indumentaria, y el año pasado con l
 hemos sumado académiques para realizar investigación y docencia en pregrado en cursos de electrónica y programación en las siguientes áreas:
 
 - segundo año: dentro de la oferta de talleres, dos de introducción al diseño de interacción digital
-- segundo año: dos cursos obligatorios de introducción a la programación y al diseño basado en datos.
+- segundo año: dos cursos obligatorios de introducción a la programación y al diseño basado en datos
 - tercer y cuarto año: dentro de la oferta de talleres, cuatro talleres de electrónica, programación, visualización de datos, espacios interactivos
-- quinto año: un sección de seminario y de título dedicada a la investigación y desarrollo de interfaces físicas y digitales.
+- quinto año: un sección de seminario y de título dedicada a la investigación y desarrollo de interfaces físicas y digitales
 
 ## herramientas computaciones de fuente abierta para arte y diseño
 
@@ -85,7 +83,7 @@ existe ogente nerd artista que quiere programar, solía ser duro porque generalm
 
 a través de los años han habido muchos esfuerzos en usar la computación como un medio plástico de expresión artística y de diseño.
 
-una pionera que quiero siempre destacar es muriel cooper, una de las fundadoras de mit media lab, donde trabajaba en su visual language workshop, y donde se desarrollaron pioneros experimentos computacionales tipográficos
+una pionera que quiero siempre destacar es muriel cooper, una de las fundadoras de mit media lab, donde trabajaba en su visual language workshop, y donde se desarrollaron pioneros experimentos computacionales tipográficos.
 
 tras su muerte, el grupo de investigación es refundado con el nombre aesthetics + computation group, por el profesor john maeda, estudiante de muriel cooper. john maeda lanza una herramienta y libro fundacional del rubro: design by numbers, una herramienta de dibujo programático de 100 x 100 pixeles.
 
@@ -103,13 +101,13 @@ paulatinamente p5.js ha sido adoptado por escuelas de artes y diseño para ense�
 
 de hecho hoy es el examen de este curso, y por eso lo hicimos coincidir con processing community da 2026, nos emociona mucho estar aquí celebrando este hito, que continúa mañana sábado en la facultad de arquitectura, arte y diseño de la universidad diego portales, donde tendremos muestras de obras mediales, charlas invitadas y conciertos audiovisuales hechos con código.
 
-toda la info en instagram de @lid.udp, y también en <https://disenoudp.github.io/lid>
+toda la info en instagram de @lid.udp, y también en <https://disenoudp.github.io/lid>.
 
 ## clínica de hoy
 
 nuestro desafío hoy es usar código para generar el efecto de chroma, para eso propongo varios aspectos:
 
-- color como fenómeno físico y como percepción humana, y su modelameiento y producción en computación.
+- color como fenómeno físico y como percepción humana, y su modelameiento y producción en computación
 - uso de cámara en vivo en  páginas web con p5.js
 - manipulación de color en vivo con p5.js
 - detección de presencia humana con ml5.js
@@ -178,8 +176,8 @@ estos ejemplos son útiles si queremos detectar el cuerpo y hacer algo al respec
 ## ejemplos de ml5.js, modelo BodySegmentation
 
 - usa modelos SelfieSegmentation y BodyPix
-- SelfieSegmentation se enfoce en segmentar a la persona humana del fondo de la imagen.
-- BodyPix se usa para segmentación detallada de partes del cuerpo, por ejemplo, distingue entre extremidades de la persona. También puede hacer segmentación persona/fondo, pero es más intenso a nivel computacional.
+- SelfieSegmentation se enfoce en segmentar a la persona humana del fondo de la imagen
+- BodyPix se usa para segmentación detallada de partes del cuerpo, por ejemplo, distingue entre extremidades de la persona. También puede hacer segmentación persona/fondo, pero es más intenso a nivel computacional
 - <https://docs.ml5js.org/#/reference/body-segmentation>
 
 ejemplos:
